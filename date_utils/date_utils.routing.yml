@@ -1,0 +1,7 @@
+date_utils.diff:
+  path: '/date-utils/diff'
+  defaults:
+    _form: '\Drupal\date_utils\Form\DateDiffForm'
+    _title: 'Date Diff'
+  requirements:
+    _permission: 'access content'

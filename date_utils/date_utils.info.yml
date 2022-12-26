@@ -1,0 +1,5 @@
+name: Date Utils
+type: module
+description: 'Provides date related utils.'
+package: Custom
+core_version_requirement: ^9.2

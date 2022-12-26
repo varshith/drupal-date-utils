@@ -1,0 +1,3 @@
+services:
+  date_utils.manager:
+    class: \Drupal\date_utils\DateUtils
